@@ -5,11 +5,13 @@
    ========================================================================== */
 
 .jumbotron {
-	background-image: url('../img/jumbotron-bg.jpg');
+	background-image: url('../img/blue-bg.jpg');
 	background-size: cover;
 }
 
-
+.list-item-padded {
+	padding: 5px;
+}
 
 
 
