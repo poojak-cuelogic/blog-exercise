@@ -2,3 +2,11 @@ body {
   padding-top: 50px;
   padding-bottom: 20px;
 }
+
+h2 {
+	color: #337ab7;
+}
+
+a {
+	outline: none !important;
+}
