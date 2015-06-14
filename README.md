@@ -2,12 +2,8 @@
 
 A Blog built using bootstrap3, HTML5, less css blog front-end. Has the following:
 
-  - Guest article listing
+  - Article listing
 
-  - Guest article detail
+  - Article detail
 
-  - Admin login
-
-  - Admin article listing
-
-  - Admin article crud
+  - Login
